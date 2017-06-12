@@ -1,2 +1,2 @@
 # Campus2017
-ejercicios campus2017
+* Ejercicios para el campus de verano 2017
