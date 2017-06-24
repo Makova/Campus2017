@@ -5,3 +5,5 @@
 [Súper3](http://www.super3.cat/unamadecontes/web/tallers/dibuix/inici)
 
 [Neave](http://neave.com/imagination/)
+
+[Jesusda](http://www.jesusda.com/docs/tutoriales-gimp/)
